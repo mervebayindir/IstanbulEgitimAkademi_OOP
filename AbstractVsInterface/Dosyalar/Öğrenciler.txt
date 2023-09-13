@@ -1,0 +1,4 @@
+﻿Adı:Merve - Soyadı:Bayındır - Yaşı:32
+Adı:Zümra - Soyadı:Bayındır - Yaşı:7
+Adı: Merve - Soyadı: Bayındır - Yaşı: 36
+Adı:Kutluhan - Soyadı:Bayındır - Yaşı:12
